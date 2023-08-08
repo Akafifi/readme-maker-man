@@ -6,27 +6,27 @@
  * [Contributing](#contributing)
  * [Tests](#Tests)
  * [License](#License)
- * [Questions](#questions)
+ * [Contact](#Contact)
 
 ## Description
-d
+Automatically generates readme
 
 ## Installation
-Visual Studio Code and Node.js should be downloaded and installed. Install inquirer in the terminal afterwards.
+node and vs code
 
 ## Usage
-d
+NA
 
 ## Contributing
 Pull requests are welcomed.
 
 ## Tests
-d
+Any
 
 ## License
 This project is licensed under the MIT license.
 
 ## Contact Info
-Please feel free to email me at d for any questions you have.
-My GitHub username is d
+Please feel free to email me at itsmeafifi@gmail.com for any questions you have.
+My GitHub username is Akafifi
     

@@ -7,13 +7,13 @@ export const getReadMe = (answers) => {
  * [Contributing](#contributing)
  * [Tests](#Tests)
  * [License](#License)
- * [Questions](#questions)
+ * [Contact](#Contact)
 
 ## Description
 ${answers.description}
 
 ## Installation
-Visual Studio Code and Node.js should be downloaded and installed. Install inquirer in the terminal afterwards.
+${answers.install}
 
 ## Usage
 ${answers.information}
